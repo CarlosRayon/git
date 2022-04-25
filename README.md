@@ -11,3 +11,4 @@ Resources for Git
 
 - [Step Deploy](/deploy/step-deploy.md)
 - [Docs](/deploy/docs.md)
+- [Docs](/deploy/gitignore.md)
