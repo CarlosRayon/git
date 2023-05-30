@@ -6,6 +6,7 @@ Resources for Git
 
 - [Command Guide](/command/command-guide.md)
 - [Cache Clear](/command/cache-clear.md)
+- [Reset Other Commit](/command/reset-other-commit.md)
 
 ## Deploy
 
